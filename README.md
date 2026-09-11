@@ -1,84 +1,35 @@
-# 👋 Welcome to My GitHub Profile
+# Hi, I'm yssmine26-gif 👋
 
-Hi there! I'm **yssmine26-gif**, a passionate developer and creator. Welcome to my corner of GitHub!
+Welcome to my GitHub profile. I use this space to learn, build, and share projects with the developer community.
 
----
+## About me
 
-## 🚀 About Me
+- I enjoy turning ideas into practical software.
+- I care about readable code, thoughtful design, and continuous improvement.
+- I am always open to learning from other developers and contributing to open source.
 
-I'm a dedicated software developer with a passion for building innovative solutions and contributing to open-source projects. I believe in clean code, continuous learning, and collaborative problem-solving.
+## What I'm working on
 
-- 🔭 **Currently Working On:** [Your current project/focus]
-- 🌱 **Learning:** [Technologies or skills you're learning]
-- 💡 **Interests:** Software development, open source, tech innovation
-- 📫 **Reach Me At:** [Your email or contact info]
-- 😄 **Pronouns:** [Your pronouns]
-- ⚡ **Fun Fact:** [Share something interesting about yourself!]
+I am currently exploring new projects and improving my development skills. Check my repositories for the latest work and experiments.
 
----
+## Tools I use
 
-## 🛠️ Technical Skills
+- Git and GitHub
+- Markdown
+- GitHub Issues and Discussions
 
-### Languages & Frameworks
-- **Languages:** [e.g., JavaScript, Python, TypeScript, Java, etc.]
-- **Frontend:** [e.g., React, Vue.js, Angular, etc.]
-- **Backend:** [e.g., Node.js, Django, Flask, Spring, etc.]
-- **Databases:** [e.g., PostgreSQL, MongoDB, MySQL, etc.]
+## GitHub activity
 
-### Tools & Technologies
-- **Version Control:** Git, GitHub
-- **CI/CD:** [e.g., GitHub Actions, Jenkins, GitLab CI]
-- **Cloud:** [e.g., AWS, Azure, Google Cloud]
-- **Other:** [Docker, Kubernetes, etc.]
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=yssmine26-gif&show_icons=true&hide_border=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yssmine26-gif&layout=compact&hide_border=true&theme=transparent)
+
+## Connect
+
+The best way to reach me is through [GitHub](https://github.com/yssmine26-gif). Feel free to explore my repositories, open an issue, or start a discussion.
 
 ---
 
-## 📊 GitHub Stats
+Thanks for stopping by! ⭐
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yssmine26-gif&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yssmine26-gif&layout=compact&theme=radical)
-
----
-
-## 🎯 Featured Projects
-
-### [Project Name](https://github.com/yssmine26-gif/project-name)
-A brief description of what this project does and why it's cool.
-- **Tech Stack:** [Languages/frameworks used]
-- **Highlights:** Key features or accomplishments
-
-### [Another Project](https://github.com/yssmine26-gif/another-project)
-Description of your project and its impact.
-- **Tech Stack:** [Languages/frameworks used]
-- **Highlights:** Key features or accomplishments
-
----
-
-## 📚 Latest Blog Posts & Updates
-
-- [Blog Post or Update](link-here)
-- [Another Article](link-here)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on exciting projects, contributing to open source, or just having a tech discussion!
-
-- 💼 **LinkedIn:** [Your LinkedIn URL]
-- 🐦 **Twitter/X:** [Your Twitter handle]
-- 🌐 **Portfolio:** [Your portfolio website]
-- 📧 **Email:** [Your email address]
-
----
-
-## 📈 My Contributions
-
-Feel free to explore my repositories and don't hesitate to star ⭐ projects you find interesting!
-
-**Last Updated:** September 11, 2026
-
----
-
-*Thanks for visiting! Happy coding! 🎉*
+_Last updated: September 11, 2026_
